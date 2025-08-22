@@ -1,5 +1,5 @@
 
-##Hi, I´m Sofiia💫##<br><br>• Software Engineering student at НNURE<br>• Interested in developing applications for phones and PCs<br>• Programming in Java and using Spring<br>• Here you can find my projects<br>
+**Hi, I´m Sofiia**💫<br><br>• Software Engineering student at НNURE<br>• Interested in developing applications for phones and PCs<br>• Programming in Java and using Spring<br>• Here you can find my projects<br>
 
 
 # 💻 Tech Stack:
